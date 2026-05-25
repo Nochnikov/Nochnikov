@@ -61,19 +61,13 @@ class Nurdaulet:
 
 </div>
 
----
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nochnikov&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nochnikov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nochnikov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nochnikov&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 # 🔥 GitHub Streak
 
