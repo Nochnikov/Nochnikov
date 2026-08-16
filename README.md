@@ -1,12 +1,12 @@
+<div align="center">
+
 # Hey, I'm Nurdaulet 👋
 
 ### Backend Developer · Python · AsyncIO · Distributed Systems
 
-I build backend systems with a focus on **asynchronous programming, microservices, and scalable architectures**.
+**Building reliable, scalable backend systems with Python.**
 
-Currently working mainly with **Python, Django, FastAPI, PostgreSQL, Redis, RabbitMQ, and Docker**.
-
-<p align="left">
+<p>
   <a href="https://github.com/Nochnikov">
     <img src="https://img.shields.io/github/followers/Nochnikov?style=flat-square&logo=github&label=Followers" />
   </a>
@@ -15,35 +15,24 @@ Currently working mainly with **Python, Django, FastAPI, PostgreSQL, Redis, Rabb
   </a>
 </p>
 
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
 
-```python
-class Nurdaulet:
+I'm a **Backend Developer focused on Python**, with a strong interest in asynchronous programming, distributed systems, and backend architecture.
 
-    role = "Backend Developer"
-    language = "Python"
-    location = "Kazakhstan"
+I enjoy understanding systems beyond the framework level — from **event loops and network I/O** to **database queries, connection pools, message brokers, and service communication**.
 
-    focus = [
-        "AsyncIO",
-        "Microservices",
-        "Distributed Systems",
-        "Event-Driven Architecture",
-        "Performance"
-    ]
-```
+My main areas of interest:
 
-I enjoy understanding how systems work **under the hood** — from Python's event loop and async I/O to database queries, message brokers, connection pools, and distributed services.
-
-I'm especially interested in building systems that are:
-
-* ⚡ asynchronous and efficient
-* 🧩 modular and maintainable
-* 📈 scalable under load
-* 🔄 resilient to failures
-* 🔍 observable and testable
+* ⚡ Async programming and concurrent I/O
+* 🧩 Microservice architecture
+* 🔄 Event-driven systems
+* 🗄️ Database performance and data access
+* 📨 Message brokers and background processing
+* 📈 Scalable and reliable backend systems
 
 ---
 
@@ -55,7 +44,7 @@ I'm especially interested in building systems that are:
   <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
 </p>
 
-**Python · Django · Django REST Framework · FastAPI · AsyncIO · SQLAlchemy**
+`Python` · `Django` · `Django REST Framework` · `FastAPI` · `AsyncIO` · `SQLAlchemy`
 
 ### Databases & Messaging
 
@@ -63,71 +52,78 @@ I'm especially interested in building systems that are:
   <img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq" />
 </p>
 
-**PostgreSQL · Redis · RabbitMQ · Celery**
+`PostgreSQL` · `Redis` · `RabbitMQ` · `Celery`
 
-### Infrastructure
+### Infrastructure & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,git,bash" />
 </p>
 
-**Docker · Linux · Git · Bash · Nginx**
+`Docker` · `Linux` · `Git` · `Bash` · `Nginx`
 
 ### Testing
 
-**Pytest · pytest-asyncio · pytest-django**
+`Pytest` · `pytest-asyncio` · `pytest-django`
 
 ---
 
-## 🏗️ What I Build
+## 🏗️ Engineering Focus
 
-### 🔹 Async Backend Services
+### Async Backend
 
 Working with:
 
 * `asyncio`
-* async database drivers
+* asynchronous database access
 * concurrent I/O
 * WebSockets
 * Server-Sent Events
 * connection pools
-* async HTTP clients
+* asynchronous HTTP clients
 
-### 🔹 Microservices
+### Distributed Systems
 
 Interested in:
 
+* microservices
 * service-to-service communication
-* authentication services
-* event-driven systems
+* event-driven architecture
 * message brokers
 * distributed workflows
 * fault tolerance
 
-### 🔹 High-Load Systems
+### Performance
 
 Focused on:
 
-* database performance
-* caching strategies
-* concurrency
+* database optimization
+* caching
 * connection management
+* concurrency
 * efficient I/O
-* bottleneck identification
+* identifying system bottlenecks
 
 ---
 
 ## 🧠 Currently Exploring
 
 ```text
-Python internals
-      ↓
+Python Internals
+       │
+       ▼
 AsyncIO & Event Loop
-      ↓
+       │
+       ▼
 Concurrent I/O
-      ↓
+       │
+       ▼
+Event-Driven Architecture
+       │
+       ▼
 Distributed Systems
-      ↓
+       │
+       ▼
 Scalable Backend Architecture
 ```
 
@@ -135,38 +131,58 @@ Currently going deeper into:
 
 * AsyncIO internals
 * Event loops & selectors
+* Python concurrency
 * Distributed systems
-* Event-driven architecture
 * Database internals
-* Performance optimization
 * System design
+* Backend performance
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nochnikov&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nochnikov&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="170"
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+  />
 </p>
+
+---
+
+## 🛠️ How I Think About Backend
+
+```text
+Simple
+  ↓
+Understandable
+  ↓
+Testable
+  ↓
+Observable
+  ↓
+Reliable
+  ↓
+Scalable
+```
+
+I prefer **simple solutions that are easy to understand, test, debug, and evolve**.
 
 ---
 
 ## 📫 Contact
 
-<p align="left">
+<p>
   <a href="mailto:dantesnurdaulet@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dantesnurdaulet@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-dantesnurdaulet%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Nochnikov">
     <img src="https://img.shields.io/badge/GitHub-Nochnikov-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-<div align="center">
-
-### "Simple is better than complex."
-
-</div>
