@@ -138,20 +138,24 @@ Currently going deeper into:
 * Backend performance
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="170"
-    src="./profile/stats.svg"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="./profile/top-langs.svg"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/Nochnikov">
+    <img
+      height="170"
+      src="https://github-readme-stats-fast.vercel.app/api?username=Nochnikov&show_icons=true&theme=tokyonight&hide_border=true"
+      alt="Nurdaulet's GitHub Stats"
+    />
+  </a>
+
+  <a href="https://github.com/Nochnikov">
+    <img
+      height="170"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nochnikov&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+      alt="Top Languages"
+    />
+  </a>
 </p>
 
 ---
